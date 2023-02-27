@@ -1,0 +1,39 @@
+
+h1{
+    color: red;
+    font-family: 'roboto' , sans-serif ;
+    font-size: 30px;
+    text-align: center;
+    text-decoration-line: underline;
+}
+img{ 
+    width: 300px; height: 200px;
+    margin-left:500px;
+    margin-right:500px;
+}
+.box p {
+    font-family: 'roboto' , sans-serif ;
+    color: blue;
+    text-align: center;
+    padding:50px ;
+    border: 3px solid pink;
+    border-radius: 50px;
+    
+   
+    margin-left:400px;
+    margin-right:400px;
+    
+}
+.video {
+    width:300px ; height: 200px;
+    margin-left:500px;
+    margin-right:500px;
+
+}
+h2 {
+    text-align: center;
+    color: gray;
+}
+footer h1 {
+    color: gray;
+}
